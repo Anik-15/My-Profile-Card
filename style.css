@@ -7,8 +7,13 @@
 }
 
 .position{
-	 margin-top: 3px;
+	 margin-top: 4px;
 }
+
+.tag{
+      margin-top: 4px;
+}
+
 body{
   background: url(bg.jpg) no-repeat center;
   background-size: cover;
